@@ -1,3 +1,7 @@
 Hi! I am Puja Laha
+<<<<<<< HEAD
 bye
 tata tata
+=======
+bye bye tata
+>>>>>>> br1
